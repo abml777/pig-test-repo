@@ -13,7 +13,7 @@ spring:
     remote: false        #cachecloud 获取
     host: 122.114.65.137
     port: 6379
-    password:123123qwe
+    password: 123123qwe
   rabbitmq:
     host: 47.99.105.129
     port: 5672

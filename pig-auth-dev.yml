@@ -5,9 +5,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: 111.
-    url: jdbc:mysql://127.0.0.1:3306/pig?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false
+    username: cloud
+    password: cloud@2018
+    url: jdbc:mysql://45.40.244.47:3306/pig?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false
   freemarker:
     allow-request-override: false
     allow-session-override: false
